@@ -15,4 +15,4 @@ modules:
       - type: git
         url: https://github.com/tanaybhomia/DeepDive.git
         tag: v1.0.0
-        commit: c0858604654873e34162b0b11a72a503c26ee87f
+        commit: 9939cf55ea710958003c9f33d0bbf4fc6d6bb9a9
